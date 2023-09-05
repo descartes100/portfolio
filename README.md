@@ -4,7 +4,7 @@ Welcome to my portfolio website! This repository hosts the code and assets for m
 
 ## 3D Model by Glowbox 3D
 
-![3D Model](https://skfb.ly/6XzUz)
+[3D Model](https://skfb.ly/6XzUz)
 
 - **Author:** Glowbox 3D
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
