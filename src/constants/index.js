@@ -64,7 +64,7 @@ export const navLinks = [
     {
         id: "linkedin",
         title: "Linkedin",
-        link: "https://www.linkedin.com/in/lei-zhang-487999244",
+        link: "https://www.linkedin.com/in/lei-zhang-new/",
     },
 ];
 
