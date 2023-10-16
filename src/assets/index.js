@@ -29,6 +29,7 @@ import bytedance from "./company/bytedance.png";
 import neo from "./company/neo.png";
 import spell from "./company/spell.png";
 import togethdao from "./company/togethdao.jpg";
+import ntu from "./company/ntu-1.png";
 
 import ai_paint from "./ai_paint.jpg";
 import togeth from "./togeth.jpg";
@@ -66,6 +67,7 @@ export {
   neo,
   spell,
   togethdao,
+  ntu,
   ai_paint,
   togeth,
   evm,

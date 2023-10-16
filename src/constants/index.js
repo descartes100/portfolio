@@ -22,6 +22,7 @@ import {
     neo,
     spell,
     togethdao,
+    ntu,
     togeth,
     ai_paint,
     enhance,
@@ -60,11 +61,6 @@ export const navLinks = [
         id: "blog",
         title: "Blog",
         link: "https://dappopia.hashnode.dev/",
-    },
-    {
-        id: "linkedin",
-        title: "Linkedin",
-        link: "https://www.linkedin.com/in/lei-zhang-new/",
     },
 ];
 
@@ -151,7 +147,18 @@ const technologies = [
 ];
 
 const experiences = [
-
+    {
+        title: "Research Assistant",
+        company_name: "NTU - Centre for Sustainable Finance Innovation",
+        icon: ntu,
+        iconBg: "#383E56",
+        date: "Aug 2023 - Present",
+        points: [
+            "Stay updated on the latest developments in sustainable finance, including technologies, solutions, startups, and more, and draft research reports.",
+            "Utilize web scraping techniques to gather various types of data to support research, and employ machine learning methods for data analysis.",
+            "Assist in the development of educational materials related to financial technology."
+        ],
+    },
     {
         title: "CTO & Full stack Developer",
         company_name: "Spell.ai",
@@ -167,7 +174,7 @@ const experiences = [
     },
     {
         title: "Cyber Threat Intelligence & Red Team Intern",
-        company_name: "Tiktok",
+        company_name: "Douyin",
         icon: bytedance,
         iconBg: "#383E56",
         date: "Sep 2022 - Jun 2023",
@@ -195,7 +202,7 @@ const experiences = [
     },
     {
         title: "Web3 Researcher & Data Analyst Intern",
-        company_name: "Neo Blockchain",
+        company_name: "Neo Smart Economy",
         icon: neo,
         iconBg: "#383E56",
         date: "Jun 2021 - Sep 2022",
