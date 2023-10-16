@@ -47,7 +47,8 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-white text-[17px] max-w-6xl leading-[30px]'
       >
-        I'm an enthusiastic fullstack developer with a strong passion for blockchain and cybersecurity. My entrepreneurial experiences have honed my problem-solving and innovative skills, while my insatiable curiosity drives me to continuously learn and adapt to evolving technologies. I excel at collaborating with diverse teams, valuing input from every member. With technical expertise, a love for blockchain, and a commitment to teamwork, I'm ready to make an impact in the tech and innovation landscape.
+        I'm a dedicated fullstack developer and researcher specializing in fintech and web3 technologies. My passion for blockchain and cybersecurity has led me to explore innovative solutions that redefine the financial landscape. With a strong entrepreneurial background, I've honed my problem-solving skills and thrive on adapting to emerging technologies in this dynamic field.
+        My insatiable curiosity drives me to continuously expand my knowledge and collaborate with diverse teams, valuing input from every member. With a deep technical expertise in fintech and web3, I'm committed to making a significant impact in the ever-evolving world of technology and financial innovation.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
